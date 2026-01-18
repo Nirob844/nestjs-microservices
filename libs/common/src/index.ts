@@ -4,3 +4,4 @@ export * from './utils';
 export * from './filters';
 export * from './interceptors';
 export * from './config';
+export * from './auth';
